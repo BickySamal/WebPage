@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+@media only screen and (max-width:320px) {
+    
+    #first, .navbar{width:100%;} 
+    }
+
+#first{
+    background-color: red; padding: 2px; text-align: center; font-size: 10vw;}
+#first span{ position: relative;float: right;  margin-right:1%;  
+    color: black; background-size: 100% auto;}
+#first a{ color:black;}
+
+.navbar-brand img{ width:50px;}
+.navbar-brand{font-size: 50px;,background-size: 100% auto;}
+.navbar-nav{ background-size:20% ;}
